@@ -17,4 +17,4 @@ A user friendly weather app to keep you updated from current Weather conditions 
 
 ## Tech Stack
 - HTML, CSS, JavaScript, React JS.
-- (https://openweathermap.org/api) for weather data.
+- (https://openweathermap.org/) for weather data.
