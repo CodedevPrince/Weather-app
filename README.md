@@ -47,5 +47,5 @@ b. After creating account, navigate to the API keys section and    generate an A
    npm start
 
    Now, the app should running on the server http://localhost:3000.
-``` 
+
     
